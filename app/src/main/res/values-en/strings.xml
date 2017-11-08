@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Customs clearance of cars - Customs Calculator</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="engPetrol">Petrol</string>
+    <string name="engDiesel">Diesel</string>
+    <string name="fizFace">Individual</string>
+    <string name="urFace">Legal entity</string>
+    <string name="engSize">Volume:</string>
+    <string name="vehicleAge">Age:</string>
+    <string name="vehicleCost">Cost:</string>
+    <string name="total">Total</string>
+    <string name="cmSize">cm³</string>
+    <string name="engType">Engine:</string>
+    <string name="euro">€</string>
+    <string name="usd">56.2376</string>
+    <string name="rub">68.3681</string>
+    <string name="date">01.01.2015</string>
+    <string name="update">Update</string>
+    <string name="noInternet">Check your internet connection</string>
+    <string name="getCurrencyMsg">Obtain the courses. Please wait.</string>
+    <string name="downloadMsg">Downloading…</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8056441717527546/1670425516</string>
+
+    <string-array name="listAge">
+        <item>Less than 3 years</item>
+        <item>From 3 to 5 years</item>
+        <item>Over 5 years</item>
+    </string-array>
+
+    <string-array name="currency">
+        <item>€</item>
+        <item>$</item>
+        <item>RUB</item>
+    </string-array>
+
+</resources>

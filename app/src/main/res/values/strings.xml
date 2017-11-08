@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Растаможка авто - таможенный калькулятор</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="engPetrol">Бензиновый</string>
+    <string name="engDiesel">Дизельный</string>
+    <string name="fizFace">Физлицо</string>
+    <string name="urFace">Юрлицо</string>
+    <string name="engSize">Объём:</string>
+    <string name="vehicleAge">Возраст:</string>
+    <string name="vehicleCost">Стоимость:</string>
+    <string name="total">Рассчитать</string>
+    <string name="cmSize">см³</string>
+    <string name="engType">Двигатель:</string>
+    <string name="euro">€</string>
+    <string name="usd">56.2376</string>
+    <string name="rub">68.3681</string>
+    <string name="date">01.01.2015</string>
+    <string name="update">Обновить</string>
+    <string name="noInternet">Проверьте интернет соединение</string>
+    <string name="getCurrencyMsg">Получаем курсы. Пожалуйста подождите.</string>
+    <string name="downloadMsg">Загрузка…</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8056441717527546/1670425516</string>
+
+    <string-array name="listAge">
+        <item>Менее 3-х лет</item>
+        <item>От 3-х до 5-ти лет</item>
+        <item>Более 5-ти лет</item>
+    </string-array>
+
+    <string-array name="currency">
+        <item>€</item>
+        <item>$</item>
+        <item>RUB</item>
+    </string-array>
+
+</resources>
